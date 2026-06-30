@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR5c0091/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5c0091/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道德真經註(四)
+  date: '2015-08-29 00:19:56.899892'
+  source:
+    repository: kanripo
+    path: KR5c0091
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0091_000-HFL.yaml, hash: 'sha256:2b72c718443349f54601293ffeaafc68c024e405d247b972c29d0636dcf5d534'}
+  - {seq: 1, filename: KR5c0091_001-HFL.yaml, hash: 'sha256:ae40037ef9034dbdfbfcf21572c50ad38115c4b40f8d8c9474bc71d3d52fee23'}
+  - {seq: 2, filename: KR5c0091_002-HFL.yaml, hash: 'sha256:3c1f16f40e869dd8d0c20175232ca196f8be5bc1b303c089c285c8a3fcc0d102'}
+  - {seq: 3, filename: KR5c0091_003-HFL.yaml, hash: 'sha256:0a13310f172e317fe406dfe9d8b31db86b29d31d0ff0d4dab442f72876f65f5a'}
+  - {seq: 4, filename: KR5c0091_004-HFL.yaml, hash: 'sha256:5b5914e2ad52106a8def0e7f7782fea87dcc44235299fd3e0f90e88012021bc8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0091_000-HFL.markers.yaml, hash: 'sha256:bc5189761fbf0c91acae6cf5dcebb69bccdc4c72bcab780a36bb5a4afb657f0a'}
+  - {seq: 1, role: markers, filename: assets/KR5c0091_001-HFL.markers.yaml, hash: 'sha256:a465be8a30cd312686ad07fb304b227b3e80826f2fed2cd863dca489c9f3f98b'}
+  - {seq: 2, role: markers, filename: assets/KR5c0091_002-HFL.markers.yaml, hash: 'sha256:6132a4ddc10f5e1c96054818c9d4e6d6323d97f9b6df85b408b23ec876f08980'}
+  - {seq: 3, role: markers, filename: assets/KR5c0091_003-HFL.markers.yaml, hash: 'sha256:68f2ab4dc8d608e41aac2a6758ca7fae73542ed682cb58ae83464dcc4ab91900'}
+  - {seq: 4, role: markers, filename: assets/KR5c0091_004-HFL.markers.yaml, hash: 'sha256:c9543e44227ff3e765364d0c267cccc784afa4aa29c7f6e0f04f04fe61aba276'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0091_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 189
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0091_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 7921
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0091_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 8088
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0091_HFL_003-001a
+    span:
+    - body
+    - 0
+    - 9347
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0091_HFL_004-001a
+    span:
+    - body
+    - 0
+    - 8469
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:43cfb8f98ae6d981225fc701a5709b75f85e8fd9b2c0985d93bdcb6e5dcb8a9c

@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR5c0091/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5c0091/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道德真經註(四)
+  date: '2015-08-29 00:19:56.899892'
+  source:
+    repository: kanripo
+    path: KR5c0091
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0091_000-CK-KZ-jye.yaml, hash: 'sha256:23a036448a5cdcec0fcccaaa1060c75343921a4ba1efc9cd21737096d0cbb67f'}
+  - {seq: 1, filename: KR5c0091_001-CK-KZ-jye.yaml, hash: 'sha256:14cba10b551570afc79b80d83d8c9a1c86ab43a85d162eec5126d2b7f5040703'}
+  - {seq: 2, filename: KR5c0091_002-CK-KZ-jye.yaml, hash: 'sha256:461eae3a22b410e69fd237be7f546737262e478cb9b9ba72510e81b5bdc7e331'}
+  - {seq: 3, filename: KR5c0091_003-CK-KZ-jye.yaml, hash: 'sha256:e5d7a313a6b718b2dae91b708aee102438e4a3e86a9fb14e72f87b3cdf61e173'}
+  - {seq: 4, filename: KR5c0091_004-CK-KZ-jye.yaml, hash: 'sha256:dd7bb01a14b160208c003aac5e672d28a176774bdecebcdbe3fd575cbe34bfa1'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0091_001-CK-KZ-jye.markers.yaml, hash: 'sha256:ba0e814eaf8a12449e65e2b27c98dda90708f10cb3c3380b3d21f152acb8bd32'}
+  - {seq: 2, role: markers, filename: assets/KR5c0091_002-CK-KZ-jye.markers.yaml, hash: 'sha256:b54e91dd528a2945acdd76d76e2f516df680025a57259e9d6340e50715874afe'}
+  - {seq: 3, role: markers, filename: assets/KR5c0091_003-CK-KZ-jye.markers.yaml, hash: 'sha256:b2eae2a67e92ca23cf41876bfa424216742f87e040896c7f255497ea42e888a5'}
+  - {seq: 4, role: markers, filename: assets/KR5c0091_004-CK-KZ-jye.markers.yaml, hash: 'sha256:ec3bc4f103ea09b0cc999ed365d0de6eb8429d6adc9d7a822e4c1c2c4e9ed32c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0091_CK-KZ-jye_001-h1
+    span:
+    - body
+    - 5
+    - 7867
+  label: 道經上(上篇之首句曰道可道故以道字名篇尊之而曰經他本或作道德經上則是以道德經¶爲一書之總名
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0091_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 5
+    - 8077
+  label: 道經下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0091_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 5
+    - 9308
+  label: ¶德經上(下篇之首句曰上德不德故以德字名篇篇名非有意義釋者迺謂上篇專言道下篇專¶言德其失甚矣
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0091_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 5
+    - 8364
+  label: ¶德經下
+  type: section
+  level: 1
+hash: sha256:5acde1ad72a88aa6b8ddc02d9e8877e1a9adc05fd0818758d92502c8ed2c43d8

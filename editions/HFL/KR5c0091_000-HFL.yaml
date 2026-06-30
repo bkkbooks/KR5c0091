@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0091/HFL/v1/juan/0
+seq: 0
+front:
+  text: 老子短一
+  hash: sha256:68c7c73ca8aa0cb0d08244a4c1667aa54c262a8d00f174e204c3d0630316b500
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0091_HFL_000-001a, image: hfl/0392/0392-004.png}
+body:
+  text: 臨川吴澄述老子李氏名耳字聃史記列傳曰字伯陽楚苦縣厲鄉曲仁里人周守藏室之史也脩道德以自隱無名爲務居周乆之見周之衰遂去至關關令尹喜曰子將隱矣强爲我著書於是迺著上下篇五千餘言而去莫知其終莊子曰以本爲精以末爲粗以有積爲不足澹然獨與神明居建之以常無有主之以太一以懦弱謙下爲表以空虚不毁萬物爲實人皆求福己獨曲全以深爲根以約爲紀常寬容於物不削於人古之博大眞人哉苦音怙藏去聲强爲上其兩切下云僞切
+  hash: sha256:f13dfe4fc3c61e0b8fc1a07c317089dc5147780d2fe63529a30ef7ed3fbf4adf
+metadata:
+  title: 道德真經註(四)
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 00:19:56.899892'
+  source:
+    repository: kanripo
+    path: KR5c0091/KR5c0091_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:2b72c718443349f54601293ffeaafc68c024e405d247b972c29d0636dcf5d534

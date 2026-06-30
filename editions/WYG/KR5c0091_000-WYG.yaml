@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0091/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十四
+  hash: sha256:59b6c5006a29a1c169640e5600631b30d9a17b0b2b0283c6e596da3e89cb6da6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0091_WYG_000-1a, image: WYG1055/WYG1055-0257a.png}
+body:
+  text: 道徳真經註道家𩔖提要臣等謹案道徳真經註四卷元吳澄撰澄有易纂言已著録據澄年譜稱大徳十一年澄辭疾歸自京南下留清都觀與門人論及老莊太元等書因為正厥訛譌而著其説澄學出象山以尊徳性為本故此注所言與蘇轍指意畧同雖不免援儒入墨而就彼法言之則較諸方士之所註精䆳多矣篇末有澄䟦云莊君平所傳章七十二諸家所傳章八十一然有不當分而分者定為六十八章上篇三十二章三千三百六十六字下篇三十六章二千九百二十六字凡五千二百九十三字然大抵以意為之不必於古有所考蓋澄好竄改古經故於是書亦多所更定殆習慣成自然云乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:9ba70a5d90dc65e8205f251f5c21c0ada0450f53886324601f7924cdc66760d2
+metadata:
+  title: 道德真經註(四)
+  edition:
+    short: WYG
+    label: 【四部全書・文淵閣】
+  date: '2015-08-29 00:19:56.899892'
+  source:
+    repository: kanripo
+    path: KR5c0091/KR5c0091_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:cf5b609199193fa534d40167e1547d0af685e3489fc5f73619641a5170ce9ec8
