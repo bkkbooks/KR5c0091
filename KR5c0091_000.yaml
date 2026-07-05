@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5c0091_HFL_000-001a, image: hfl/0392/0392-004.png}
 body:
-  text: 臨川吳澄述老子李氏名耳字聃史記列傳曰字伯陽楚苦縣厲鄉曲仁里人周守藏室之史也修道德以自隱無名為務居周久之見周之衰遂去至關關令尹喜曰子將隱矣强為我著書於是乃著上下篇五千餘言而去莫知其終莊子曰以本為精以末為粗以有積為不足淡然獨與神明居建之以常無有主之以太一以懦弱謙下為表以空虛不毁萬物為實人皆求福己獨曲全以深為根以約為紀常寬容於物不削於人古之博大真人哉苦音怙藏去聲强為上其兩切下云僞切
-  hash: sha256:2fb6545d5c15d2d2e82ca721d727c0f915216f3a6cdce261eaca07806350caec
+  text: 臨川吴澄述老子李氏名耳字聃史記列傳曰字伯陽楚苦縣厲鄉曲仁里人周守藏室之史也脩道德以自隱無名爲務居周乆之見周之衰遂去至關關令尹喜曰子將隱矣强爲我著書於是迺著上下篇五千餘言而去莫知其終莊子曰以本爲精以末爲粗以有積爲不足澹然獨與神明居建之以常無有主之以太一以懦弱謙下爲表以空虚不毁萬物爲實人皆求福己獨曲全以深爲根以約爲紀常寬容於物不削於人古之博大眞人哉苦音怙藏去聲强爲上其兩切下云僞切
+  hash: sha256:f13dfe4fc3c61e0b8fc1a07c317089dc5147780d2fe63529a30ef7ed3fbf4adf
 metadata:
   title: 道德真經註(四)
   edition:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     WYG: http://img.kanripo.org/general/skqs/wyg/
-hash: sha256:088947ecaace835606837993cf0442963ba494ee8d6816661db967ad4a4c168f
+hash: sha256:f972f27a8dd1f45364a19ac3332339431a7fa048b292bd944487ddec16da7db5
