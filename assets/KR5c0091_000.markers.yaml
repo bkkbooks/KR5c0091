@@ -104,14 +104,17 @@ markers:
   - {type: substitution, offset: 170, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: 'kr:non-cjk', offset: 173, content: ○, id: KR5c0091_krp_000-bkkkrnonc1}
   - {type: punctuation, offset: 174, content: (, id: KR5c0091_krp_000-bkkpn1}
+  - {type: voice, offset: 174, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 175, content: /, id: KR5c0091_krp_000-bkkpn2}
   - {type: punctuation, offset: 176, content: ), id: KR5c0091_krp_000-bkkpn3}
   - {type: punctuation, offset: 177, content: (, id: KR5c0091_krp_000-bkkpn4}
+  - {type: voice, offset: 177, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 178, content: /, id: KR5c0091_krp_000-bkkpn5}
   - {type: punctuation, offset: 179, content: ), id: KR5c0091_krp_000-bkkpn6}
   - {type: substitution, offset: 179, original: 强, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17538}}
   - {type: substitution, offset: 180, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 181, content: (, id: KR5c0091_krp_000-bkkpn7}
+  - {type: voice, offset: 181, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 182, content: /, id: KR5c0091_krp_000-bkkpn8}
   - {type: punctuation, offset: 183, content: ), id: KR5c0091_krp_000-bkkpn9}
   - {type: 'kr:newline', offset: 183, content: '
@@ -139,4 +142,4 @@ markers:
 
       ', id: KR5c0091_krp_000-bkkkrnewl19}
   back: []
-hash: sha256:7e837e04421280345cb4f32c4f3874b1709d387d5cf43196f454564832bbf123
+hash: sha256:c22e91a74a4a1615bb8370f9dfaf6ae6a9d0008cdd5bc6c1bbed693f8514fa3f
